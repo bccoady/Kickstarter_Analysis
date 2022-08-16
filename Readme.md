@@ -28,7 +28,7 @@ Provide a visual summary of the subset data: US Theater plays funded by Kickstar
 4. Failed Kickstarter campaigns have much higher fundraising goals than successful Kickstarter campaigns.
 
 
-![Outcomes Based on Launch Date](Outcomes Based on Launch Date.png)
+![Outcomes Based on Launch Date](https://github.com/bccoady/Kickstarter_Analysis/blob/a069e7149158b0be42706b8554bc34986948d6c3/Outcomes%20Based%20on%20Launch%20Date.png)
 
 
 ### Analysis of Outcomes Based on Goals

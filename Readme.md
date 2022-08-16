@@ -47,7 +47,12 @@ Provide a visual summary of the subset data: US Theater plays funded by Kickstar
 4.  No live shows were recoreded in the data unitl 2017.
 5.  Anual Spending by Country can be filtered and viewed in the following Pivot table:
 
-![Annual Spending by Country](
+![Annual Spending by Country](https://github.com/bccoady/Kickstarter_Analysis/blob/1ca44ad2b2325696e85e3b22aa9554091423987a/Annual%20Spending.png)
+
+6.  Outcomes by Year can be viewed in the following Pivot table:
+
+![Outcomes by Year](https://github.com/bccoady/Kickstarter_Analysis/blob/1ca44ad2b2325696e85e3b22aa9554091423987a/Outcomes%20by%20Year.png)
+
 
 
     

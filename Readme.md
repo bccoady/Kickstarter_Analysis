@@ -37,7 +37,7 @@ Provide a visual summary of the subset data: US Theater plays funded by Kickstar
 2. The Average Goal was $11,322
 3. Failed Kickstarter campaigns have much higher goals than successful Kickstarter campaigns.
 
-![Outcomes Based on Goals](https://github.com/bccoady/kickstarter-analysis/blob/456fe492c54df3af46e45ea6a377d9139eeed440/Outcomes%20Based%20on%20Goals.png)
+![Outcomes vs Goals](https://github.com/bccoady/Kickstarter_Analysis/blob/3e42fe0ec8eda2cab72edd52b0548d630d01f841/outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -45,7 +45,9 @@ Provide a visual summary of the subset data: US Theater plays funded by Kickstar
 2.  Some difficulty was expierenced using the COUNTIFS function, resulting in an ineffecient use of time.
 3.  The data showed zero canceled plays leaving a question of validity. 
 4.  No live shows were recoreded in the data unitl 2017.
-5.  Anual spending by country can be filtered and viewed in the following Picot table:
+5.  Anual Spending by Country can be filtered and viewed in the following Pivot table:
+
+![Annual Spending by Country](
 
 
     
